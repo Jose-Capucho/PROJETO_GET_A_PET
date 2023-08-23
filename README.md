@@ -3,7 +3,7 @@ Este projeto de Aplicação Full Stack foi desenvolvido como resultado direto do
 
 
 ##
-# Tecnologias Utilizadas:
+# Objetivo do projeto:
 
 Criar uma aplicação para adoção de animais.
 
