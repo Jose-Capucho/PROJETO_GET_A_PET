@@ -39,7 +39,7 @@ Conhecimento prático na implementação de recursos de segurança e autenticaç
 
 ##
 
-# Imagens do projeto
+# Imagens do projeto:
 
 ![image](https://github.com/Jose-Capucho/PROJETO_GET_A_PET/assets/97485966/072363e2-4927-4ff1-88ca-0524f951dc46)
 
