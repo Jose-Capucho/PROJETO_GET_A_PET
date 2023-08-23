@@ -5,6 +5,11 @@ Este projeto de Aplicação Full Stack foi desenvolvido como resultado direto do
 ##
 # Tecnologias Utilizadas:
 
+Criar uma aplicação para adoção de animais.
+
+##
+# Tecnologias Utilizadas:
+
 Node.js para construção do backend da aplicação.
 Express.js para criação de uma API RESTful eficiente.
 Uso do padrão MVC (Model-View-Controller) para organizar o código de forma modular.
