@@ -10,32 +10,32 @@ Criar uma aplicação para adoção de animais.
 ##
 # Tecnologias Utilizadas:
 
-Node.js para construção do backend da aplicação.
-Express.js para criação de uma API RESTful eficiente.
-Uso do padrão MVC (Model-View-Controller) para organizar o código de forma modular.
-Integração com MongoDB utilizando Mongoose para gerenciamento de dados.
-Implementação da biblioteca React no frontend para criar interfaces interativas.
+- Node.js para construção do backend da aplicação.
+- Express.js para criação de uma API RESTful eficiente.
+- Uso do padrão MVC (Model-View-Controller) para organizar o código de forma modular.
+- Integração com MongoDB utilizando Mongoose para gerenciamento de dados.
+- Implementação da biblioteca React no frontend para criar interfaces interativas.
 
 ##
 
 # Recursos Implementados:
 
-Criação de endpoints RESTful para lidar com operações CRUD (Create, Read, Update, Delete).
-Construção de um banco de dados MongoDB para armazenamento de informações.
-Desenvolvimento de uma interface frontend dinâmica e responsiva usando React.
-Aplicação de conceitos de UI/UX para melhorar a experiência do usuário.
-Utilização de tecnologias de autenticação e autorização para proteger rotas sensíveis.
-Implementação de lógica de negócios para garantir o funcionamento correto da aplicação.
+- Criação de endpoints RESTful para lidar com operações CRUD (Create, Read, Update, Delete).
+- Construção de um banco de dados MongoDB para armazenamento de informações.
+- Desenvolvimento de uma interface frontend dinâmica e responsiva usando React.
+- Aplicação de conceitos de UI/UX para melhorar a experiência do usuário.
+- Utilização de tecnologias de autenticação e autorização para proteger rotas sensíveis.
+- Implementação de lógica de negócios para garantir o funcionamento correto da aplicação.
 
 ##
 
 # Aprendizados:
 
-Domínio do desenvolvimento backend utilizando Node e Express.
-Habilidade para criar APIs RESTful para comunicação entre o frontend e o backend.
-Proficiência no uso de um banco de dados NoSQL (MongoDB) com o auxílio do Mongoose.
-Experiência na construção de interfaces interativas com React.
-Conhecimento prático na implementação de recursos de segurança e autenticação.
+- Domínio do desenvolvimento backend utilizando Node e Express.
+- Habilidade para criar APIs RESTful para comunicação entre o frontend e o backend.
+- Proficiência no uso de um banco de dados NoSQL (MongoDB) com o auxílio do Mongoose.
+- Experiência na construção de interfaces interativas com React.
+- Conhecimento prático na implementação de recursos de segurança e autenticação.
 
 ##
 
