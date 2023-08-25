@@ -8,7 +8,7 @@ Este projeto de Aplicação Full Stack foi desenvolvido como resultado direto do
 Criar uma aplicação para adoção de animais.
 
 ##
-# Tecnologias Utilizadas:
+# Tecnologias utilizadas:
 
 - Node.js para construção do backend da aplicação.
 - Express.js para criação de uma API RESTful eficiente.
@@ -18,7 +18,7 @@ Criar uma aplicação para adoção de animais.
 
 ##
 
-# Recursos Implementados:
+# Recursos implementados:
 
 - Criação de endpoints RESTful para lidar com operações CRUD (Create, Read, Update, Delete).
 - Construção de um banco de dados MongoDB para armazenamento de informações.
